@@ -1,7 +1,7 @@
 
 ---
 
-## **PM Internship Scheme Allocation Engine** 🎓💼
+## **PM Internship Scheme Recommendation Allocation Engine** 🎓💼
 
 The **PM Internship Scheme Allocation Engine** is a smart digital system designed to **automate, streamline, and optimize** the distribution of internship opportunities under the Prime Minister’s Internship Scheme. It matches students and graduates with the most suitable government departments, ministries, and partner organizations based on their **skills 🛠️, preferences 🎯, and eligibility ✅**.
 
