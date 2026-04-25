@@ -54,3 +54,4 @@ By leveraging **AI** and **automation**, the system ensures fairness, transparen
 
   ## Deployment 
   https://pmip-v8-1.vercel.app/
+  Frontend: https://pmip-frontend.onrender.com
